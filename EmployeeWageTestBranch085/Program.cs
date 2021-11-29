@@ -10,6 +10,7 @@ namespace EmployeeWageTestBranch085
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to EmployeeWage computation");
         }
     }
 }
